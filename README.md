@@ -7,4 +7,4 @@ Za povezabo med ADS1115 modulom in STM32F0 ploščico sva izbrala naslednje pine
  V Parameter  Settings protokola  I2C sva spremenila Speed  Mode na Fast.Sedaj frekvenca znaša 8MHz.
  
  KOMENTAR NA DELOVANJE:
- Naloge nama žal ni uspelo narediti, tako, kot so navodila to zahtevala. Naredila sva vse tako kot je pisalo v navodilih ampak, komunikacije nama nikakor ni uspelo vspostaviti. Koda in nastavitve periferije so pravile, tako da dopuščava da je napaka nekje v samem vezju.(Ne)Delovanje je rezvidno iz priloženega videoposnetka
+ Naloge nama žal ni uspelo narediti, tako, kot so navodila to zahtevala. Naredila sva vse tako kot je pisalo v navodilih ampak, komunikacije nama nikakor ni uspelo vspostaviti. Koda in nastavitve periferije so pravile, tako da dopuščava da je napaka nekje v samem vezju.(Ne)Delovanje je rezvidno iz priloženega videoposnetka.
